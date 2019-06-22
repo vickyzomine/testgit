@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\vickyzomine\Documents\VuGen\Scripts\GIT_Trial
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\vickyzomine\documents\vugen\scripts\git_trial\\logfile.log
+c:\users\vickyzomine\documents\vugen\scripts\git_trial\\combined_GIT_Trial.c
+c:\users\vickyzomine\documents\vugen\scripts\git_trial\\pre_cci.c

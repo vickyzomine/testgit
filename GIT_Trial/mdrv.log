@@ -1,0 +1,18 @@
+Virtual User Script started at : 2019-06-22 10:14:30
+TruClient Replay (build 1053) for LoadRunner 12.60.0, build 0971. OS: Windows 10, Browser: TruClient Browser 58.0.2.0, initialized on 2019/06/22 at 10:14:30 (1561178670.626s)
+
+Running Vuser...
+Starting iteration 1.
+Notify: Transaction "Launch Google" started.
+t=00002993ms: Step 1: Navigate to "http://www.google.com/" started    [MsgId: MMSG-205180]
+t=00004770ms: Step 1: Navigate to http://www.google.com/ successfully completed with End Event "Document Loaded"    [MsgId: MMSG-205180]
+Notify: Transaction "Launch Google" ended with a "Pass" status (Duration: 1.7970 Wasted Time: 0.1270).
+t=00005288ms: Step 2: Type microfous in Search combobox started    [MsgId: MMSG-205180]
+t=00008245ms: Step 2: Type microfous in Search combobox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Retrieve_Results" started.
+t=00008765ms: Step 3: Press key Enter on Search combobox started    [MsgId: MMSG-205180]
+t=00011606ms: Step 3: Press key Enter on Search combobox successfully completed with End Event "Document Loaded"    [MsgId: MMSG-205180]
+Notify: Transaction "Retrieve_Results" ended with a "Pass" status (Duration: 2.8610 Wasted Time: 0.3140).
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
